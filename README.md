@@ -1,5 +1,6 @@
 # Contextual-Dictation-Question-Selection-Tool
 一个基于 Python 的图形化工具，可从 Excel 题库中按篇目抽取题目，并一键生成规范的 Word（.docx）或 PowerPoint（.pptx）试卷及答案文档。
+
 ✨ 功能亮点
 
 📂 Excel 题库导入​ – 支持 .xlsx/ .xls文件，第一行为列标题（篇目、题干、答案A、答案B）。
